@@ -1,0 +1,22 @@
+
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+/* Geral */
+body {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
